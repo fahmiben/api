@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+
+
+
+.user{
+ 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.user > * {
+margin-top: 20px;
+}
+.nav{
+  background-color: dimgrey;
+}
